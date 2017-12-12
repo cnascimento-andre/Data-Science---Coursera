@@ -1,3 +1,4 @@
+#Rprogramming - Week2 excercises
 pollutantmean <-function(directory, pollutant, id){
     #pollutant can be sulfate or nitrate
     wd <- getwd()
