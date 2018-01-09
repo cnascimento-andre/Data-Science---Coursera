@@ -1,3 +1,4 @@
+# 02 - R programming final project
 ex1<-function(ex=1,directory="D:/0_backup/pessoal/cursos/Data_science_MOOC/R_programming/week4"){
     setwd(directory)
     outcome<-read.csv("outcome-of-care-measures.csv",colClasses = "character")
