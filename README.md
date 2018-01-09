@@ -1,9 +1,7 @@
 ### Coursera - Data Science (Johns Hopkins University)
-*Started 11/17
+* Started 11/17
 
-*MOOC data science courses - 10 courses
-
-*Folder destinated for course projects
+* MOOC data science courses - 10 courses
 
 01 - The Data Scientist's Toolbox
 
